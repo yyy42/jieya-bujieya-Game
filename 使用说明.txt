@@ -1,0 +1,1 @@
+下载Application.zip 文件，并解压，进入（Application)目录，运行.exe文件
